@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bde0b6b6-958d-454d-9f63-a9378ea3b095" name="Changes" comment="proper upload of backend 1 and 2">
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Controller/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Controller/CursoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Dto/CursoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Repository/CursoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Service/CursoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/test/java/com/theozitos2007/backend/BackendApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Controller/AlunoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Controller/CursoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Model/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Model/Curso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Controller/AlunoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Controller/CursoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Model/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Dto/CursoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Model/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Repository/AlunoRepository.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,99 +44,99 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Theozitos2007"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Theozitos2007&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Theozitos2007/tarefa2026.2.git",
-    "accountId": "34b72570-e6a9-4418-a76a-0ccec4ccf33f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Theozitos2007/tarefa2026.2.git&quot;,
+    &quot;accountId&quot;: &quot;34b72570-e6a9-4418-a76a-0ccec4ccf33f&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5006448063294573" />
-      <entry key="MS500" value="4.020158172066659" />
-      <entry key="S2" value="7.075443606155661" />
-      <entry key="S5" value="8.17091612946057" />
-      <entry key="S10" value="9.130286185185101" />
-      <entry key="S30" value="17.400472617650554" />
-      <entry key="S60" value="32.211653095479974" />
-      <entry key="M2" value="51.74865900776231" />
-      <entry key="M5" value="74.84253046878054" />
-      <entry key="M10" value="86.38441174114836" />
-      <entry key="M15" value="90.86626712447827" />
-      <entry key="M30" value="95.72408343692135" />
-      <entry key="H1" value="98.3069379392827" />
-      <entry key="H2" value="99.63931836841532" />
-      <entry key="H4" value="100.3160734221832" />
-      <entry key="D1" value="100.88551006994774" />
-      <entry key="W1" value="100.98363194327655" />
+      <entry key="MS100" value="1.7810799448817995" />
+      <entry key="MS500" value="2.5862604458892715" />
+      <entry key="S2" value="2.883304401863787" />
+      <entry key="S5" value="3.0512488871203303" />
+      <entry key="S10" value="3.809254658241301" />
+      <entry key="S30" value="9.476430110391833" />
+      <entry key="S60" value="22.785198984527305" />
+      <entry key="M2" value="46.76254578714981" />
+      <entry key="M5" value="95.2273460624523" />
+      <entry key="M10" value="136.50295366081374" />
+      <entry key="M15" value="157.05158662522626" />
+      <entry key="M30" value="182.70713290726803" />
+      <entry key="H1" value="197.91060298840088" />
+      <entry key="H2" value="206.20359407715856" />
+      <entry key="H4" value="210.5367488491972" />
+      <entry key="D1" value="214.24690411068647" />
+      <entry key="W1" value="214.89218658881816" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.036543723948027E-282" />
-      <entry key="MS500" value="5.7037130737116E-57" />
-      <entry key="S2" value="8.690393016471375E-15" />
-      <entry key="S5" value="2.3747383567010452E-6" />
-      <entry key="S10" value="0.0015410186101086005" />
-      <entry key="S30" value="0.11550549026851992" />
-      <entry key="S60" value="0.3398609866820842" />
-      <entry key="M2" value="0.5829759743609373" />
-      <entry key="M5" value="0.8058612307887688" />
-      <entry key="M10" value="0.8976977391019584" />
-      <entry key="M15" value="0.9305793710535751" />
-      <entry key="M30" value="0.9646654192276067" />
-      <entry key="H1" value="0.9821738233264036" />
-      <entry key="H2" value="0.9910468320550766" />
-      <entry key="H4" value="0.9955133510179951" />
-      <entry key="D1" value="0.9992508234065814" />
-      <entry key="W1" value="0.9998929403932261" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.6317062909196255E-99" />
+      <entry key="S5" value="3.0553206488296823E-40" />
+      <entry key="S10" value="1.7479475532262558E-20" />
+      <entry key="S30" value="2.59523167122274E-7" />
+      <entry key="S60" value="5.094341636779697E-4" />
+      <entry key="M2" value="0.02257064827775155" />
+      <entry key="M5" value="0.21949145288788183" />
+      <entry key="M10" value="0.46849914929259084" />
+      <entry key="M15" value="0.6032155628879877" />
+      <entry key="M30" value="0.7766695326121562" />
+      <entry key="H1" value="0.8812885637588601" />
+      <entry key="H2" value="0.9387697075208891" />
+      <entry key="H4" value="0.9689012888426225" />
+      <entry key="D1" value="0.9947484144809663" />
+      <entry key="W1" value="0.9992480794678479" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4556529800679732" />
-      <entry key="MS500" value="3.974846381336821" />
-      <entry key="S2" value="7.051751449030314" />
-      <entry key="S5" value="8.159719893359071" />
-      <entry key="S10" value="9.1253605256166" />
-      <entry key="S30" value="17.508374099044072" />
-      <entry key="S60" value="32.542363623086786" />
-      <entry key="M2" value="52.323855824186225" />
-      <entry key="M5" value="75.64394718611344" />
-      <entry key="M10" value="87.27958340222006" />
-      <entry key="M15" value="91.79508663353373" />
-      <entry key="M30" value="96.68782864227242" />
-      <entry key="H1" value="99.28864110600652" />
-      <entry key="H2" value="100.63012717175968" />
-      <entry key="H4" value="101.31146707566359" />
-      <entry key="D1" value="101.88474084818256" />
-      <entry key="W1" value="101.98352201772386" />
+      <entry key="MS100" value="1.7314698547783398" />
+      <entry key="MS500" value="2.5710359698506986" />
+      <entry key="S2" value="2.878996345103009" />
+      <entry key="S5" value="3.0493009794222767" />
+      <entry key="S10" value="3.8076178516506327" />
+      <entry key="S30" value="9.471993407052778" />
+      <entry key="S60" value="22.776425185721006" />
+      <entry key="M2" value="46.774156199580304" />
+      <entry key="M5" value="95.43824362262043" />
+      <entry key="M10" value="136.9656402310056" />
+      <entry key="M15" value="157.65045555989295" />
+      <entry key="M30" value="183.48134441665636" />
+      <entry key="H1" value="198.79058018661726" />
+      <entry key="H2" value="207.1416859071336" />
+      <entry key="H4" value="211.5053054350285" />
+      <entry key="D1" value="215.24159425505073" />
+      <entry key="W1" value="215.89142632365844" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3M0yQcCaIgdDYzlPgy6g1D6EvV1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Sou/Desktop/classWeek"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sou/Desktop/classWeek&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
