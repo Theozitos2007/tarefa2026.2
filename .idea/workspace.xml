@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bde0b6b6-958d-454d-9f63-a9378ea3b095" name="Changes" comment="proper upload of backend 1 and 2" />
+    <list default="true" id="bde0b6b6-958d-454d-9f63-a9378ea3b095" name="Changes" comment="proper upload of backend 1 and 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,65 @@
     "accountId": "34b72570-e6a9-4418-a76a-0ccec4ccf33f"
   }
 }]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5006448063294573" />
+      <entry key="MS500" value="4.020158172066659" />
+      <entry key="S2" value="7.075443606155661" />
+      <entry key="S5" value="8.17091612946057" />
+      <entry key="S10" value="9.130286185185101" />
+      <entry key="S30" value="17.400472617650554" />
+      <entry key="S60" value="32.211653095479974" />
+      <entry key="M2" value="51.74865900776231" />
+      <entry key="M5" value="74.84253046878054" />
+      <entry key="M10" value="86.38441174114836" />
+      <entry key="M15" value="90.86626712447827" />
+      <entry key="M30" value="95.72408343692135" />
+      <entry key="H1" value="98.3069379392827" />
+      <entry key="H2" value="99.63931836841532" />
+      <entry key="H4" value="100.3160734221832" />
+      <entry key="D1" value="100.88551006994774" />
+      <entry key="W1" value="100.98363194327655" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="6.036543723948027E-282" />
+      <entry key="MS500" value="5.7037130737116E-57" />
+      <entry key="S2" value="8.690393016471375E-15" />
+      <entry key="S5" value="2.3747383567010452E-6" />
+      <entry key="S10" value="0.0015410186101086005" />
+      <entry key="S30" value="0.11550549026851992" />
+      <entry key="S60" value="0.3398609866820842" />
+      <entry key="M2" value="0.5829759743609373" />
+      <entry key="M5" value="0.8058612307887688" />
+      <entry key="M10" value="0.8976977391019584" />
+      <entry key="M15" value="0.9305793710535751" />
+      <entry key="M30" value="0.9646654192276067" />
+      <entry key="H1" value="0.9821738233264036" />
+      <entry key="H2" value="0.9910468320550766" />
+      <entry key="H4" value="0.9955133510179951" />
+      <entry key="D1" value="0.9992508234065814" />
+      <entry key="W1" value="0.9998929403932261" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4556529800679732" />
+      <entry key="MS500" value="3.974846381336821" />
+      <entry key="S2" value="7.051751449030314" />
+      <entry key="S5" value="8.159719893359071" />
+      <entry key="S10" value="9.1253605256166" />
+      <entry key="S30" value="17.508374099044072" />
+      <entry key="S60" value="32.542363623086786" />
+      <entry key="M2" value="52.323855824186225" />
+      <entry key="M5" value="75.64394718611344" />
+      <entry key="M10" value="87.27958340222006" />
+      <entry key="M15" value="91.79508663353373" />
+      <entry key="M30" value="96.68782864227242" />
+      <entry key="H1" value="99.28864110600652" />
+      <entry key="H2" value="100.63012717175968" />
+      <entry key="H4" value="101.31146707566359" />
+      <entry key="D1" value="101.88474084818256" />
+      <entry key="W1" value="101.98352201772386" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
   "fromUser": false
