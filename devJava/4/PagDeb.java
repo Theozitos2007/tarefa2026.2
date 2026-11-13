@@ -1,0 +1,26 @@
+public class PagDeb implements PagInt {
+
+    //deb: com senha
+    @Override
+    public String displayType(){
+        return "Debito";
+    }
+
+    @Override
+    public void pagar(double input, Global inGlobal) {
+
+
+
+        if (!validateSaldo(input, inGlobal)){
+            System.out.println("Saldo insuficiente");
+        }else if(!validateZero(input)){
+            System.out.println("numero invalido");
+        }else{
+            double newSaldo = inGlobal.getSaldo() - input;
+            inGlobal.setSaldo(newSaldo);
+        }
+
+    }
+
+
+}

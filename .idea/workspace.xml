@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bde0b6b6-958d-454d-9f63-a9378ea3b095" name="Changes" comment="proper upload of backend 1 and 2">
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/BackendApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Controller/AlunoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Controller/CursoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Dto/CursoResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Model/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Repository/CursoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Service/CursoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devBackend/3/backend/src/test/java/com/theozitos2007/backend/BackendApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Controller/AlunoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Controller/CursoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Model/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/1/backend/src/main/java/Model/Curso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Controller/AlunoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Controller/CursoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Model/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Dto/CursoRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/devBackend/3/backend/src/main/java/com/theozitos2007/backend/Model/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devBackend/2/backend/src/main/java/Repository/AlunoRepository.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bde0b6b6-958d-454d-9f63-a9378ea3b095" name="Changes" comment="proper upload of backend 1 and 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,61 +24,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7810799448817995" />
-      <entry key="MS500" value="2.5862604458892715" />
-      <entry key="S2" value="2.883304401863787" />
-      <entry key="S5" value="3.0512488871203303" />
-      <entry key="S10" value="3.809254658241301" />
-      <entry key="S30" value="9.476430110391833" />
-      <entry key="S60" value="22.785198984527305" />
-      <entry key="M2" value="46.76254578714981" />
-      <entry key="M5" value="95.2273460624523" />
-      <entry key="M10" value="136.50295366081374" />
-      <entry key="M15" value="157.05158662522626" />
-      <entry key="M30" value="182.70713290726803" />
-      <entry key="H1" value="197.91060298840088" />
-      <entry key="H2" value="206.20359407715856" />
-      <entry key="H4" value="210.5367488491972" />
-      <entry key="D1" value="214.24690411068647" />
-      <entry key="W1" value="214.89218658881816" />
+      <entry key="MS100" value="1.0207607158452592" />
+      <entry key="MS500" value="1.4642561086476724" />
+      <entry key="S2" value="2.8382410175528965" />
+      <entry key="S5" value="5.148577928034821" />
+      <entry key="S10" value="6.739424543076953" />
+      <entry key="S30" value="10.93050521363097" />
+      <entry key="S60" value="21.186986365460527" />
+      <entry key="M2" value="44.35520087979376" />
+      <entry key="M5" value="97.22833386159118" />
+      <entry key="M10" value="144.54526048877122" />
+      <entry key="M15" value="168.74718412264855" />
+      <entry key="M30" value="199.50605329592446" />
+      <entry key="H1" value="217.99709669409134" />
+      <entry key="H2" value="228.16116018796166" />
+      <entry key="H4" value="233.49310333401982" />
+      <entry key="D1" value="238.06975860163362" />
+      <entry key="W1" value="238.86680041319156" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.6317062909196255E-99" />
-      <entry key="S5" value="3.0553206488296823E-40" />
-      <entry key="S10" value="1.7479475532262558E-20" />
-      <entry key="S30" value="2.59523167122274E-7" />
-      <entry key="S60" value="5.094341636779697E-4" />
-      <entry key="M2" value="0.02257064827775155" />
-      <entry key="M5" value="0.21949145288788183" />
-      <entry key="M10" value="0.46849914929259084" />
-      <entry key="M15" value="0.6032155628879877" />
-      <entry key="M30" value="0.7766695326121562" />
-      <entry key="H1" value="0.8812885637588601" />
-      <entry key="H2" value="0.9387697075208891" />
-      <entry key="H4" value="0.9689012888426225" />
-      <entry key="D1" value="0.9947484144809663" />
-      <entry key="W1" value="0.9992480794678479" />
+      <entry key="S2" value="4.9770911793758696E-114" />
+      <entry key="S5" value="4.772986860504932E-46" />
+      <entry key="S10" value="2.1847166545126355E-23" />
+      <entry key="S30" value="2.795535681160812E-8" />
+      <entry key="S60" value="1.671985550523926E-4" />
+      <entry key="M2" value="0.012930528026820575" />
+      <entry key="M5" value="0.17564933260045135" />
+      <entry key="M10" value="0.4191053955754459" />
+      <entry key="M15" value="0.5600354278186543" />
+      <entry key="M30" value="0.7483551481874444" />
+      <entry key="H1" value="0.8650752268950045" />
+      <entry key="H2" value="0.9300942032369622" />
+      <entry key="H4" value="0.9644139169656198" />
+      <entry key="D1" value="0.9939790818003369" />
+      <entry key="W1" value="0.9991376410434727" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.7314698547783398" />
-      <entry key="MS500" value="2.5710359698506986" />
-      <entry key="S2" value="2.878996345103009" />
-      <entry key="S5" value="3.0493009794222767" />
-      <entry key="S10" value="3.8076178516506327" />
-      <entry key="S30" value="9.471993407052778" />
-      <entry key="S60" value="22.776425185721006" />
-      <entry key="M2" value="46.774156199580304" />
-      <entry key="M5" value="95.43824362262043" />
-      <entry key="M10" value="136.9656402310056" />
-      <entry key="M15" value="157.65045555989295" />
-      <entry key="M30" value="183.48134441665636" />
-      <entry key="H1" value="198.79058018661726" />
-      <entry key="H2" value="207.1416859071336" />
-      <entry key="H4" value="211.5053054350285" />
-      <entry key="D1" value="215.24159425505073" />
-      <entry key="W1" value="215.89142632365844" />
+      <entry key="MS100" value="0.0927827231643521" />
+      <entry key="MS500" value="0.6270862832146483" />
+      <entry key="S2" value="2.110863936467238" />
+      <entry key="S5" value="4.709954665523171" />
+      <entry key="S10" value="6.4838920942985245" />
+      <entry key="S30" value="10.834651849232916" />
+      <entry key="S60" value="21.134487469509573" />
+      <entry key="M2" value="44.33636789497941" />
+      <entry key="M5" value="97.38670583503269" />
+      <entry key="M10" value="144.95392671338374" />
+      <entry key="M15" value="169.29968194336445" />
+      <entry key="M30" value="200.25028426212708" />
+      <entry key="H1" value="218.8600055979101" />
+      <entry key="H2" value="229.09014293409862" />
+      <entry key="H4" value="234.45695414642157" />
+      <entry key="D1" value="239.0636427814646" />
+      <entry key="W1" value="239.86592447071018" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -157,6 +123,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="proper upload of backend 1 and 2" />
